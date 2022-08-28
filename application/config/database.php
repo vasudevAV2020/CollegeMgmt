@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'rdsmigrationdb.c6bthdivt8ih.ap-southeast-2.rds.amazonaws.com',
-	'username' => 'admin',
-	'password' => 'admin123',
-	'database' => 'college_mgmt',
+	'hostname' => '',
+	'username' => '',
+	'password' => '',
+	'database' => '',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

@@ -1,3 +1,5 @@
+CREATE DATABASE college_mgmt;
+USE college_mgmt;
 
 CREATE TABLE `tbl_college` (
   `college_id` int(11) NOT NULL,
